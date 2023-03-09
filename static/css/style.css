@@ -1,0 +1,79 @@
+img {
+    width: 80%;
+    margin: 10px auto 20px;
+    display: block;
+}
+.back {
+    background-color: #FEF3EB;
+    width: 70%;
+    margin: auto;
+    padding: 15px 60px 20px 60px;
+    border-radius: 10px;
+}
+.comments_back {
+    background-color: #EFD2BD;
+    width: 80%;
+    margin: auto;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+p {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 105%;
+    color: #404040;
+    margin: 10px;
+}
+
+.comments_text {
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    color: #404040;
+    font-size: 95%;
+    margin: 10px;
+}
+
+ol {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #404040;
+}
+
+.double_hr {
+    margin: 20px 0;
+    padding: 0;
+    height: 1px;
+    border: none;
+    border-top: 1px solid #404040;
+    border-bottom: 1px solid #404040;
+}
+
+.news-header {
+    font-family: fantasy;
+    font-weight: 200;
+    color: #404040;
+}
+
+#main {
+    font-family: fantasy;
+    font-weight: 200;
+    color: #404040;
+}
+
+a:link {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 105%;
+    color: #497DDD;
+    text-decoration: none;
+    border-bottom: 1px dashed;
+}
+a:visited {
+    color: #EF7D55;
+}
+a:hover {
+    color: #154088;
+}
+a:active {
+    color: #497DDD;
+}
